@@ -34,7 +34,7 @@ nav a:hover { color: var(--primary); }
 section { padding: 100px 10% 60px; min-height: 80vh; }
 
 .hero { 
-    background: linear-gradient(rgba(3, 45, 96, 0.8), rgba(3, 45, 96, 0.8)), url('main.png?auto=format&fit=fill&w=1600&h=800');
+    background: linear-gradient(rgba(3, 45, 96, 0.8), rgba(3, 45, 96, 0.8)), url('main.png?auto=format&fit=fill&w=500&h=500');
     background-size: cover;
     color: white;
     text-align: center;
@@ -63,7 +63,7 @@ section { padding: 100px 10% 60px; min-height: 80vh; }
 .service-card-content { padding: 20px; }
 
 .contact-section {
-    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('maion.png?auto=format&fit=fill&w=1600&h=800');
+    background: linear-gradient(rgba(255,255,255,0.9), rgba(255,255,255,0.9)), url('maion.png?auto=format&fit=fill&w=500&h=500');
     background-attachment: fixed;
 }
 
@@ -94,6 +94,7 @@ button {
     font-size: 1rem;
 
 }
+
 
 
 
