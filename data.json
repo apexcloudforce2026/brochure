@@ -1,0 +1,63 @@
+{
+  "brand": "ApexCloudForce",
+  "tagline": "360 Salesforce and AI Services Provider",
+  "personal": {
+    "name": "Aamir Maqsood",
+    "title": "Salesforce Technical Manager / Solution Architect",
+    "experience": "12.5+ Years",
+    "location": "Lahore, Pakistan",
+    "contact": {
+      "email": "aamir.maqsood.sf@gmail.com",
+      "phone": "+92-3182738855",
+      "linkedin": "linkedin.com/in/aamir-maqsood-salesforce-architect-developer/"
+    }
+  },
+  "expertise": {
+    "summary": "Highly accomplished Salesforce Technical Manager & Solution Architect with 12.5+ years of experience delivering complex, end-to-end solutions[cite: 5]. Recognized for achieving 40% self-service deflection and 30% efficiency gains[cite: 8].",
+    "certifications": [
+      "Data Cloud Consultant", "AI Associate", "Health Cloud Accredited Professional", 
+      "Platform Developer II", "CPQ Specialist", "Service Cloud Consultant", 
+      "Sales Cloud Consultant", "Marketing Cloud Consultant"
+    ],
+    "skills": ["Apex", "LWC", "Agentforce", "Data Cloud", "MuleSoft", "Health Cloud", "Flow Automation"]
+  },
+  "solutions": [
+    {
+      "title": "360 AI Solutions",
+      "items": ["Agentforce", "OpenAI Integration", "Gemini", "Einstein AI", "AI Chatbots", "WhatsApp AI Bots", "Email Bots"],
+      "image": "https://images.unsplash.com/photo-1677442136019-21780ecad995?auto=format&fit=crop&w=800"
+    },
+    {
+      "title": "360 Salesforce Clouds",
+      "items": ["Sales Cloud", "Service Cloud", "Marketing Cloud", "Data Cloud", "Health Cloud", "CPQ & Revenue Cloud", "OMS"],
+      "image": "https://images.unsplash.com/photo-1551434678-e076c223a692?auto=format&fit=crop&w=800"
+    },
+    {
+      "title": "360 Integration",
+      "items": ["REST/SOAP", "MuleSoft", "Webhooks", "Zapier", "Informatica", "Any-to-Any Custom APIs"],
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc51?auto=format&fit=crop&w=800"
+    },
+    {
+      "title": "360 Development",
+      "items": ["Apex (Batch/Trigger)", "LWC & Aura", "Flow Automation", "AppExchange Managed Packages"],
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?auto=format&fit=crop&w=800"
+    },
+    {
+      "title": "360 Special Menu",
+      "items": ["Org Fixation & Refactoring", "Cleanup & Optimization", "Data Migration", "Architect Advisory"],
+      "image": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&w=800"
+    }
+  ],
+  "successStories": [
+    {
+      "label": "Implementations",
+      "value": "100+",
+      "description": "Enterprise-grade implementations over 12.5 years[cite: 5]."
+    },
+    {
+      "label": "AI Impact",
+      "value": "40%",
+      "description": "Reduction in internal agent search time via Agentforce RAG[cite: 23]."
+    }
+  ]
+}
